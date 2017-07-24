@@ -1,0 +1,6 @@
+#inlude<stdio.h>
+void main()
+{//To create a tetris game b c language.So I come here to study.//
+  printf("hello world!");
+  }
+  
